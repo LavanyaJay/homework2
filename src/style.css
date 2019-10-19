@@ -1,0 +1,73 @@
+body {
+	background: lightgoldenrodyellow;
+	background-image: url("https://wallpaperplay.com/walls/full/a/0/5/124143.jpg");
+}
+
+.addBtnId {
+	height: 30px;
+	width: 150px;
+	margin: auto;
+}
+
+.container {
+	height: 500px;
+	width: 800px;
+	background: skyblue;
+
+	margin: auto;
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+}
+
+.nameDiv {
+	height: 400px;
+	width: 600px;
+	margin-top: 10px;
+	margin-left: 100px;
+	border: 1px solid black;
+	display: flex;
+	justify-content: space-between;
+}
+.labelClass {
+	margin-top: 10px;
+	height: 30px;
+	width: 100px;
+	color: blue;
+}
+.outputClass {
+	margin-top: 10px;
+	height: 30px;
+	width: 150px;
+	color: blue;
+}
+.displayContainer {
+	background: l;
+	height: 350px;
+	width: 300px;
+	margin-top: 5px;
+}
+
+dl {
+	padding: 0;
+	margin-left: 10px;
+}
+
+dt {
+	position: relative;
+	padding: 0;
+	margin: 0;
+	top: 1.2em;
+	left: 0px;
+	color: blue;
+}
+
+dd {
+	padding: 0;
+	margin: 0 0 0 115px;
+}
+img {
+	float: right;
+	height: 180px;
+	width: 180px;
+}
